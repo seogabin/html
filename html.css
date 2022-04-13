@@ -1,0 +1,6 @@
+.toggleButton {
+    width: 200px;
+    height: 300px;
+    background-image: url('/전시회.jpg');
+    background-position: center;
+}
